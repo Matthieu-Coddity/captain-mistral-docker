@@ -18,7 +18,7 @@ output_dir: ./qlora-out
 adapter: qlora
 lora_model_dir:
 
-sequence_len: 256
+sequence_len: 2096
 sample_packing: false
 pad_to_sequence_len: true
 
